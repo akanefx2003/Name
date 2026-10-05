@@ -1,0 +1,9 @@
+{
+  "appId": "com.sorax.nonametechmurex",
+  "appName": "No-name-tech-murex",
+  "webDir": "www",
+  "server": {
+    "url": "https://no-name-tech-murex.vercel.app",
+    "cleartext": false
+  }
+}
